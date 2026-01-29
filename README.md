@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yancy</h1>
 <h3 align="center">A passionate developer from Philippines</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
