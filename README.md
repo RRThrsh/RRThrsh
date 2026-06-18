@@ -71,6 +71,6 @@ A coffee e-commerce frontend built with React, Vite, and Tailwind CSS v4.
 
 - [GitHub](https://github.com/RRThrsh)
 - [LinkedIn](www.linkedin.com/in/yancy-timbancaya-ba2045416)
-- [Portfolio](https://example.com)
+- [Portfolio](https://portfolio-website-jet-eight-69.vercel.app/)
 
 ---
